@@ -23,6 +23,8 @@ public class S_Consumer {
          "org.apache.kafka.common.serialization.StringDeserializer");
       props.put("value.deserializer", 
          "org.apache.kafka.common.serialization.StringDeserializer");
+
+      // Creating Kafka Consumer
       KafkaConsumer<String, String> consumer = new KafkaConsumer
          <String, String>(props);
       
