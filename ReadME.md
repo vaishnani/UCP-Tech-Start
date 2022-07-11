@@ -1,7 +1,7 @@
 <h1> Basic Server Client<h1>
 <hr/>
 
-<h3> Technologies we are trying to learn </h3>
+<h3> Tech Stack </h3>
 <ol>
     <li>Docker</li>
     <li>Kafka</li>
