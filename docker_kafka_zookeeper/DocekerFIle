@@ -1,3 +1,0 @@
-FROM johnnypark/kafka-zookeeper 
-
-COPY /home/delhivery/Desktop/Assignment-1/ProducerApplication.java /opt/source-code
